@@ -1,0 +1,11 @@
+D:\z-other\Control-Game-main\Jvl-Backgammon\backgammon\Temp\Bin\Debug\HoudiniEngineUnityEditor.VisualScripting.dll
+D:\z-other\Control-Game-main\Jvl-Backgammon\backgammon\Temp\Bin\Debug\HoudiniEngineUnityEditor.VisualScripting.pdb
+D:\z-other\Control-Game-main\Jvl-Backgammon\backgammon\Temp\Bin\Debug\HoudiniEngineUnity.pdb
+D:\z-other\Control-Game-main\Jvl-Backgammon\backgammon\Temp\Bin\Debug\HoudiniEngineUnity.VisualScripting.pdb
+D:\z-other\Control-Game-main\Jvl-Backgammon\backgammon\Temp\Bin\Debug\UnityEditor.UI.pdb
+D:\z-other\Control-Game-main\Jvl-Backgammon\backgammon\Temp\Bin\Debug\UnityEngine.UI.pdb
+D:\z-other\Control-Game-main\Jvl-Backgammon\backgammon\obj\Debug\HoudiniEngineUnityEditor.VisualScripting.csproj.AssemblyReference.cache
+D:\z-other\Control-Game-main\Jvl-Backgammon\backgammon\obj\Debug\HoudiniEngineUnityEditor.VisualScripting.csproj.CoreCompileInputs.cache
+D:\z-other\Control-Game-main\Jvl-Backgammon\backgammon\obj\Debug\HoudiniE.9C728498.Up2Date
+D:\z-other\Control-Game-main\Jvl-Backgammon\backgammon\obj\Debug\HoudiniEngineUnityEditor.VisualScripting.dll
+D:\z-other\Control-Game-main\Jvl-Backgammon\backgammon\obj\Debug\HoudiniEngineUnityEditor.VisualScripting.pdb

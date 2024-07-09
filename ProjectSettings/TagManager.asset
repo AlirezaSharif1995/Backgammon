@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameSetup
+  - RollButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - OnTop
+  - Water
+  - UI
+  - IndepText
+  - Ground
+  - Wall
+  - Dice
+  - BoldText
+  - LowText
+  - miniBoldText
+  - Sound
+  - Volume
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

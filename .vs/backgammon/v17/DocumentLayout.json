@@ -1,0 +1,662 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|d:\\z-other\\control-game-main\\jvl-backgammon\\backgammon\\assets\\script\\base\\gamesetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\base\\gamesetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\base\\exitbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\base\\exitbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\menu\\searchgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menu\\searchgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7F312E-DEDA-58F9-ABD3-AF6A17A38A85}|PimDeWitte.UnityMainThreadDispatcher.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\unitymainthreaddispatcher-master\\runtime\\unitymainthreaddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7F312E-DEDA-58F9-ABD3-AF6A17A38A85}|PimDeWitte.UnityMainThreadDispatcher.csproj|solutionrelative:assets\\unitymainthreaddispatcher-master\\runtime\\unitymainthreaddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\base\\finishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\base\\finishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B90DD3-A588-8712-EC8D-F1CD3E57B0E8}|UnityEngine.UI.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\library\\packagecache\\com.unity.ugui@1.0.0\\runtime\\ui\\core\\graphic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B90DD3-A588-8712-EC8D-F1CD3E57B0E8}|UnityEngine.UI.csproj|solutionrelative:library\\packagecache\\com.unity.ugui@1.0.0\\runtime\\ui\\core\\graphic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\online\\onlineinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\online\\onlineinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\base\\undobutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\base\\undobutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\online\\socketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\online\\socketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\base\\donebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\base\\donebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\base\\doublecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\base\\doublecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\base\\rollbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\base\\rollbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\base\\checkercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\base\\checkercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B90DD3-A588-8712-EC8D-F1CD3E57B0E8}|UnityEngine.UI.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\library\\packagecache\\com.unity.ugui@1.0.0\\runtime\\ui\\core\\canvasupdateregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B90DD3-A588-8712-EC8D-F1CD3E57B0E8}|UnityEngine.UI.csproj|solutionrelative:library\\packagecache\\com.unity.ugui@1.0.0\\runtime\\ui\\core\\canvasupdateregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\menu\\login\\loginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menu\\login\\loginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\online\\apimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\online\\apimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\playerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\base\\pausecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\base\\pausecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\menu\\avatarscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menu\\avatarscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\menu\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menu\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\menu\\ShopController1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\menu\\ShopController1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\base\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\base\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\base\\dice\\diceanimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\base\\dice\\diceanimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\menu\\editprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menu\\editprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\menu\\clicksound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menu\\clicksound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B90DD3-A588-8712-EC8D-F1CD3E57B0E8}|UnityEngine.UI.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\library\\packagecache\\com.unity.ugui@1.0.0\\runtime\\ui\\core\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B90DD3-A588-8712-EC8D-F1CD3E57B0E8}|UnityEngine.UI.csproj|solutionrelative:library\\packagecache\\com.unity.ugui@1.0.0\\runtime\\ui\\core\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\base\\dice\\dicecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\base\\dice\\dicecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\base\\dice\\dicescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\base\\dice\\dicescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\base\\dice\\dicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\base\\dice\\dicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\base\\boardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\base\\boardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\base\\laguagegameset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\base\\laguagegameset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\menu\\popupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menu\\popupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\base\\finishcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\base\\finishcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\languagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\languagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\menu\\headercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menu\\headercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B90DD3-A588-8712-EC8D-F1CD3E57B0E8}|UnityEngine.UI.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\library\\packagecache\\com.unity.ugui@1.0.0\\runtime\\ui\\core\\scrollrect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B90DD3-A588-8712-EC8D-F1CD3E57B0E8}|UnityEngine.UI.csproj|solutionrelative:library\\packagecache\\com.unity.ugui@1.0.0\\runtime\\ui\\core\\scrollrect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\menu\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menu\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\assets\\script\\menu\\levelselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2790708-B39D-B9DB-EBBB-B531716D765C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menu\\levelselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 282,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlayerInfo.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\PlayerInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerInfo.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\PlayerInfo.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerInfo.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowEEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:27:12.26Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameSetup.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\GameSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\base\\GameSetup.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\GameSetup.cs",
+              "RelativeToolTip": "Assets\\Script\\base\\GameSetup.cs",
+              "ViewState": "AQIAAFMIAAAAAAAAAAAIwIIIAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:55:52.02Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AvatarScript.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\menu\\AvatarScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\menu\\AvatarScript.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\menu\\AvatarScript.cs",
+              "RelativeToolTip": "Assets\\Script\\menu\\AvatarScript.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAowJ0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:56:02.176Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DiceAnimController.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\Dice\\DiceAnimController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\base\\Dice\\DiceAnimController.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\Dice\\DiceAnimController.cs",
+              "RelativeToolTip": "Assets\\Script\\base\\Dice\\DiceAnimController.cs",
+              "ViewState": "AQIAABoBAAAAAAAAAAAkwC8BAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T10:21:13.639Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DoubleController.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\DoubleController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\base\\DoubleController.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\DoubleController.cs",
+              "RelativeToolTip": "Assets\\Script\\base\\DoubleController.cs",
+              "ViewState": "AQIAAD4BAAAAAAAAAAAIwGoBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T18:30:03.221Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CheckerController.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\CheckerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\base\\CheckerController.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\CheckerController.cs",
+              "RelativeToolTip": "Assets\\Script\\base\\CheckerController.cs",
+              "ViewState": "AQIAACIBAAAAAAAAAAAYwEQBAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:32:36.064Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\base\\CameraController.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Script\\base\\CameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T17:30:19.177Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SocketManager.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\online\\SocketManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\online\\SocketManager.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\online\\SocketManager.cs",
+              "RelativeToolTip": "Assets\\Script\\online\\SocketManager.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAkwLEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T17:50:10.5Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "APIManager.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\online\\APIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\online\\APIManager.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\online\\APIManager.cs",
+              "RelativeToolTip": "Assets\\Script\\online\\APIManager.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAYwP8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:15:50.632Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchGame.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\menu\\SearchGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\menu\\SearchGame.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\menu\\SearchGame.cs",
+              "RelativeToolTip": "Assets\\Script\\menu\\SearchGame.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAYwGgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:01:47.192Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PauseController.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\PauseController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\base\\PauseController.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\PauseController.cs",
+              "RelativeToolTip": "Assets\\Script\\base\\PauseController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwFMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T11:13:06.088Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RollButton.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\RollButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\base\\RollButton.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\RollButton.cs",
+              "RelativeToolTip": "Assets\\Script\\base\\RollButton.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAwwKQAAACmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T11:08:15.164Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExitButton.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\ExitButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\base\\ExitButton.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\ExitButton.cs",
+              "RelativeToolTip": "Assets\\Script\\base\\ExitButton.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:36:45.233Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FinishController.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\FinishController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\base\\FinishController.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\FinishController.cs",
+              "RelativeToolTip": "Assets\\Script\\base\\FinishController.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAYwMsAAACZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:23:59.44Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UndoButton.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\UndoButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\base\\UndoButton.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\UndoButton.cs",
+              "RelativeToolTip": "Assets\\Script\\base\\UndoButton.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwFAAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T11:14:22.965Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoneButton.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\DoneButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\base\\DoneButton.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\DoneButton.cs",
+              "RelativeToolTip": "Assets\\Script\\base\\DoneButton.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwDgAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T11:17:48.425Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginManager.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\menu\\Login\\LoginManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\menu\\Login\\LoginManager.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\menu\\Login\\LoginManager.cs",
+              "RelativeToolTip": "Assets\\Script\\menu\\Login\\LoginManager.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwEMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:12:13.257Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OnlineInformation.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\online\\OnlineInformation.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\online\\OnlineInformation.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\online\\OnlineInformation.cs",
+              "RelativeToolTip": "Assets\\Script\\online\\OnlineInformation.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAgwFYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T18:37:15.459Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Graphic.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Graphic.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Graphic.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Graphic.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Graphic.cs",
+              "ViewState": "AQIAAL4CAAAAAAAAAAAswOECAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:45:10.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\menu\\ShopController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\menu\\ShopController.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\menu\\ShopController.cs",
+              "RelativeToolTip": "Assets\\Script\\menu\\ShopController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowBUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T16:42:06.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ShopController1.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\menu\\ShopController1.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\menu\\ShopController1.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\menu\\ShopController1.cs",
+              "RelativeToolTip": "Assets\\Script\\menu\\ShopController1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T16:41:35.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Button.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Button.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Button.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Button.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Button.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:12:38.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CanvasUpdateRegistry.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\CanvasUpdateRegistry.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\CanvasUpdateRegistry.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\CanvasUpdateRegistry.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\CanvasUpdateRegistry.cs",
+              "ViewState": "AQIAACMBAAAAAAAAAAAowEABAACrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T09:06:06.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnityMainThreadDispatcher.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\UnityMainThreadDispatcher-master\\Runtime\\UnityMainThreadDispatcher.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityMainThreadDispatcher-master\\Runtime\\UnityMainThreadDispatcher.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\UnityMainThreadDispatcher-master\\Runtime\\UnityMainThreadDispatcher.cs",
+              "RelativeToolTip": "Assets\\UnityMainThreadDispatcher-master\\Runtime\\UnityMainThreadDispatcher.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwC8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:44:24.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ScrollRect.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\ScrollRect.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\ScrollRect.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\ScrollRect.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\ScrollRect.cs",
+              "ViewState": "AQIAAD4EAAAAAAAAAAAmwC4EAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T10:05:21.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LevelManager.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Script\\LevelManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:16:13.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FinishCount.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\FinishCount.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\base\\FinishCount.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\FinishCount.cs",
+              "RelativeToolTip": "Assets\\Script\\base\\FinishCount.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwDgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:54:37.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClickSound.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\menu\\ClickSound.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\menu\\ClickSound.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\menu\\ClickSound.cs",
+              "RelativeToolTip": "Assets\\Script\\menu\\ClickSound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:06:35.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LaguageGameSet.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\LaguageGameSet.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\base\\LaguageGameSet.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\LaguageGameSet.cs",
+              "RelativeToolTip": "Assets\\Script\\base\\LaguageGameSet.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAQwFEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T20:48:07.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\menu\\SettingsController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\menu\\SettingsController.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\menu\\SettingsController.cs",
+              "RelativeToolTip": "Assets\\Script\\menu\\SettingsController.cs",
+              "ViewState": "AQIAAGQBAAAAAAAAAADwv40BAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:47:33.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LevelSelect.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\menu\\LevelSelect.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\menu\\LevelSelect.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\menu\\LevelSelect.cs",
+              "RelativeToolTip": "Assets\\Script\\menu\\LevelSelect.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowE8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:11:16.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DiceCounter.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\Dice\\DiceCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\base\\Dice\\DiceCounter.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\Dice\\DiceCounter.cs",
+              "RelativeToolTip": "Assets\\Script\\base\\Dice\\DiceCounter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T16:03:51.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EditProfile.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\menu\\EditProfile.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\menu\\EditProfile.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\menu\\EditProfile.cs",
+              "RelativeToolTip": "Assets\\Script\\menu\\EditProfile.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAowJ8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:17:51.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DiceController.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\Dice\\DiceController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\base\\Dice\\DiceController.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\Dice\\DiceController.cs",
+              "RelativeToolTip": "Assets\\Script\\base\\Dice\\DiceController.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAowKQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T05:47:06.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DiceScript.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\Dice\\DiceScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\base\\Dice\\DiceScript.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\Dice\\DiceScript.cs",
+              "RelativeToolTip": "Assets\\Script\\base\\Dice\\DiceScript.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAwwFQAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T05:47:12.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PopUpController.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\menu\\PopUpController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\menu\\PopUpController.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\menu\\PopUpController.cs",
+              "RelativeToolTip": "Assets\\Script\\menu\\PopUpController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAowKQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:57:48.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LanguageController.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\LanguageController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LanguageController.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\LanguageController.cs",
+              "RelativeToolTip": "Assets\\Script\\LanguageController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:56:39.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HeaderController.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\menu\\HeaderController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\menu\\HeaderController.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\menu\\HeaderController.cs",
+              "RelativeToolTip": "Assets\\Script\\menu\\HeaderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:25:58.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BoardController.cs",
+              "DocumentMoniker": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\BoardController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\base\\BoardController.cs",
+              "ToolTip": "D:\\z-other\\Control-Game-main\\Jvl-Backgammon\\backgammon\\Assets\\Script\\base\\BoardController.cs",
+              "RelativeToolTip": "Assets\\Script\\base\\BoardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T09:56:39.663Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
