@@ -15,9 +15,15 @@ D:/Backgammon/main project/backgammon 2D
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
+<<<<<<< HEAD
+7349
+Successfully changed project path to: D:/Backgammon/main project/backgammon 2D - part 2
+D:/Backgammon/main project/backgammon 2D - part 2
+=======
 10281
 Successfully changed project path to: D:/Backgammon/main project/backgammon 2D
 D:/Backgammon/main project/backgammon 2D
+>>>>>>> parent of 375d7ce (part 2 changes)
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,7 +53,16 @@ D:/Backgammon/main project/backgammon 2D
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
+<<<<<<< HEAD
+Player connection [13916] Host "[IP] 100.127.255.249 [Port] 0 [Flags] 2 [Guid] 2806460165 [EditorId] 2806460165 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-90LSGKO) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [13916] Host "[IP] 100.127.255.249 [Port] 0 [Flags] 2 [Guid] 2806460165 [EditorId] 2806460165 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-90LSGKO) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Refreshing native plugins compatible for Editor in 11.09 ms, found 3 plugins.
+=======
 Refreshing native plugins compatible for Editor in 217.24 ms, found 3 plugins.
+>>>>>>> parent of 375d7ce (part 2 changes)
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.1.24f1 (709dddfb713f)
 [Subsystems] Discovering subsystems at path D:/Software/Unity/Unity 2022.1.24f1/Editor/Data/Resources/UnitySubsystems
@@ -60,6 +75,670 @@ Direct3D:
     VRAM:     12093 MB
     Driver:   31.0.15.5176
 Initialize mono
+<<<<<<< HEAD
+Mono path[0] = 'D:/Software/Unity/2022.3.22f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Software/Unity/2022.3.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/Software/Unity/2022.3.22f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56568
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Software/Unity/2022.3.22f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: D:/Software/Unity/2022.3.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002496 seconds.
+- Loaded All Assemblies, in  0.330 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 240 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.530 seconds
+Domain Reload Profiling: 860ms
+	BeginReloadAssembly (116ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (134ms)
+		LoadAssemblies (117ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (132ms)
+			TypeCache.Refresh (130ms)
+				TypeCache.ScanAssembly (118ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (530ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (480ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (331ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (100ms)
+			ProcessInitializeOnLoadMethodAttributes (44ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.726 seconds
+Refreshing native plugins compatible for Editor in 3.70 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.635 seconds
+Domain Reload Profiling: 1362ms
+	BeginReloadAssembly (133ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (23ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (509ms)
+		LoadAssemblies (307ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (278ms)
+			TypeCache.Refresh (243ms)
+				TypeCache.ScanAssembly (223ms)
+			ScanForSourceGeneratedMonoScriptInfo (29ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (636ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (475ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (22ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (70ms)
+			ProcessInitializeOnLoadAttributes (296ms)
+			ProcessInitializeOnLoadMethodAttributes (78ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 4.06 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5329 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 76 unused Assets / (2.3 MB). Loaded Objects now: 5764.
+Memory consumption went from 189.8 MB to 187.5 MB.
+Total: 3.242100 ms (FindLiveObjects: 0.251200 ms CreateObjectMapping: 0.147400 ms MarkObjects: 2.422600 ms  DeleteObjects: 0.419400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 39425.564147 seconds.
+  path: Assets/UI/In Game/VFX/kick vfx/0072.png
+  artifactKey: Guid(c7a51ce864a4d4e418f1b7a9f3654c1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/kick vfx/0072.png using Guid(c7a51ce864a4d4e418f1b7a9f3654c1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d568a150c36023679f3a037609ab43a') in 0.079854 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/UI/In Game/VFX/kick vfx/0062.png
+  artifactKey: Guid(296bc950edb0f70438b2d8ea02013be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/kick vfx/0062.png using Guid(296bc950edb0f70438b2d8ea02013be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee94ff0a7baf5fee557612de92d83483') in 0.017216 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/UI/In Game/VFX/kick vfx/0084.png
+  artifactKey: Guid(0b38cede2d9da27459a33fa07960fbea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/kick vfx/0084.png using Guid(0b38cede2d9da27459a33fa07960fbea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f7a0c021348ed67be4996854e9583fe') in 0.015106 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/UI/In Game/VFX/kick vfx/0030.png
+  artifactKey: Guid(92264bb7df4fdb74aa26c7143111f0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/kick vfx/0030.png using Guid(92264bb7df4fdb74aa26c7143111f0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1470f44f063232770fab2c1d4ee1f3e7') in 0.017491 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/UI/In Game/VFX/kick vfx/0056.png
+  artifactKey: Guid(937f23722aff22647bb81eb3dc87bd6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/kick vfx/0056.png using Guid(937f23722aff22647bb81eb3dc87bd6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dea9e0a369e964b97c6c25db6c5257db') in 0.017455 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/UI/In Game/VFX/kick vfx/0086.png
+  artifactKey: Guid(e6322fa505e0417408cc47d7c9997200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/kick vfx/0086.png using Guid(e6322fa505e0417408cc47d7c9997200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd695fbb514ecf7898ba2cf0c7d77066') in 0.016900 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/UI/In Game/VFX/kick vfx/0070.png
+  artifactKey: Guid(497b07f2893c24c41a1dd2a6e58e0390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/kick vfx/0070.png using Guid(497b07f2893c24c41a1dd2a6e58e0390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d3457f430f0deb6884cd15be02b0c9d') in 0.017445 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UI/In Game/VFX/kick vfx/0074.png
+  artifactKey: Guid(4012a93b206c515468f51b543f95ce3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/kick vfx/0074.png using Guid(4012a93b206c515468f51b543f95ce3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd42b3ce7db4ce58d93067124e81c0a2b') in 0.018603 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/UI/In Game/VFX/kick vfx/0032.png
+  artifactKey: Guid(74abac84987524d4f9f3d6eb20beffac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/kick vfx/0032.png using Guid(74abac84987524d4f9f3d6eb20beffac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa69f569602813db12d98bdaab53f673') in 0.016698 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/UI/In Game/VFX/kick vfx/0076.png
+  artifactKey: Guid(f9813d820e807e849a7b9defa5753cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/kick vfx/0076.png using Guid(f9813d820e807e849a7b9defa5753cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa209098d1303d5004ffec408589bb54') in 0.019128 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/UI/In Game/VFX/kick vfx/0088.png
+  artifactKey: Guid(339d6016635674e4e8a1f194b0363387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/kick vfx/0088.png using Guid(339d6016635674e4e8a1f194b0363387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74612ff10896af299045bff97db5855e') in 0.017210 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/UI/In Game/VFX/kick vfx/0028.png
+  artifactKey: Guid(e62dc2631854dc6489de315ebc9458e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/kick vfx/0028.png using Guid(e62dc2631854dc6489de315ebc9458e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb7f002ae289a9f3d8ac84504294a41d') in 0.017280 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/UI/In Game/VFX/kick vfx/0052.png
+  artifactKey: Guid(8459dbe02340ba04994f162b24670ee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/kick vfx/0052.png using Guid(8459dbe02340ba04994f162b24670ee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9fea205a494db959f67bbbe0df9526b') in 0.017984 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/UI/In Game/Dices board.png
+  artifactKey: Guid(3ab60a02a8165be4d8fb04be10206a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/Dices board.png using Guid(3ab60a02a8165be4d8fb04be10206a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '307ee2fb7253c2f117785128729badb8') in 0.013483 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/UI/In Game/VFX/kick vfx/0064.png
+  artifactKey: Guid(01156a362b22aa7459042bad6133f4ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/kick vfx/0064.png using Guid(01156a362b22aa7459042bad6133f4ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31d19e7d9d59db3c911422cee5af0f66') in 0.028517 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/UI/In Game/VFX/kick vfx/0036.png
+  artifactKey: Guid(9bde3c37dfb22144289def0dff589098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/kick vfx/0036.png using Guid(9bde3c37dfb22144289def0dff589098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66b9a8022abdb31f415fbda5921d8679') in 0.015550 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UI/In Game/VFX/kick vfx/0066.png
+  artifactKey: Guid(b3aa5c7af9e14634caa897dd397e36c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/kick vfx/0066.png using Guid(b3aa5c7af9e14634caa897dd397e36c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6b54b0213ac77580852bb6ea20b08cb') in 0.017156 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/UI/In Game/TEXT Background.png
+  artifactKey: Guid(789f568e817bad44aa0224cb96c9990e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/TEXT Background.png using Guid(789f568e817bad44aa0224cb96c9990e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28a33ae5813407859e2bb4194cffa71a') in 0.013404 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.014455 seconds.
+  path: Assets/UI/In Game/VFX/dice vfx/0008.png
+  artifactKey: Guid(7dba745a96684bc49a1d59492b94c3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/dice vfx/0008.png using Guid(7dba745a96684bc49a1d59492b94c3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fe7329aca7beb7527968b596ec0011c') in 0.016658 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/UI/In Game/VFX/dice vfx/0086.png
+  artifactKey: Guid(d58ccc771de681e45b699acbc013f01a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/dice vfx/0086.png using Guid(d58ccc771de681e45b699acbc013f01a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f278b9d826ca45eb692abfd45bff46a5') in 0.014284 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/UI/In Game/VFX/dice vfx/0020.png
+  artifactKey: Guid(fbd1e562650736841afc6b849c4aefa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/dice vfx/0020.png using Guid(fbd1e562650736841afc6b849c4aefa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cac088f1078df4c02e8aa6c852cd619') in 0.016368 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/UI/In Game/VFX/dice vfx/0053.png
+  artifactKey: Guid(8e9537b5ee38c9248badf8683dccea4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/dice vfx/0053.png using Guid(8e9537b5ee38c9248badf8683dccea4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82b28d8da906b9306e333db3ccd346cf') in 0.017311 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/UI/In Game/VFX/dice vfx/0017.png
+  artifactKey: Guid(e03ed2f155fb9cc47b47418398d71a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/dice vfx/0017.png using Guid(e03ed2f155fb9cc47b47418398d71a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11c0016bcf352c258246cb4961848e9c') in 0.019905 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/UI/In Game/VFX/dice vfx/0050.png
+  artifactKey: Guid(3646533d3a48ca04aae93e6a89c1cfdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/dice vfx/0050.png using Guid(3646533d3a48ca04aae93e6a89c1cfdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b8a27e66f40a23f9c6f91421ef0d847') in 0.017806 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/UI/In Game/VFX/dice vfx/0038.png
+  artifactKey: Guid(bb0b9d74fc4692544b12eb61c41e59c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/dice vfx/0038.png using Guid(bb0b9d74fc4692544b12eb61c41e59c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1beb127152a64bc22a9bc3078406516') in 0.014431 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/UI/In Game/VFX/dice vfx/0074.png
+  artifactKey: Guid(8aef55b2dfdd29a40b623633b57f2924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/dice vfx/0074.png using Guid(8aef55b2dfdd29a40b623633b57f2924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4970aaf5f7cea16dba93eda248cc01b') in 0.017858 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/UI/In Game/VFX/dice vfx/0041.png
+  artifactKey: Guid(1c94bb4d506873648bccc5f37347f8d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/dice vfx/0041.png using Guid(1c94bb4d506873648bccc5f37347f8d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89a9ac185faaf8ba88d154c10fb10cfe') in 0.016255 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/UI/In Game/VFX/dice vfx/0116.png
+  artifactKey: Guid(72e6116245f158d43ab6ba32e11b9938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/dice vfx/0116.png using Guid(72e6116245f158d43ab6ba32e11b9938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf266932751c4b2e2dae5c89dc6a9c8f') in 0.016759 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/UI/In Game/VFX/dice vfx/0125.png
+  artifactKey: Guid(671c450865974e74ca481c59d6371858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/dice vfx/0125.png using Guid(671c450865974e74ca481c59d6371858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f032c1116ccb4c7824ccce906359fd6') in 0.014999 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/UI/In Game/VFX/dice vfx/0119.png
+  artifactKey: Guid(c0deb9b05608dcf4580f35c1b50ca32b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/dice vfx/0119.png using Guid(c0deb9b05608dcf4580f35c1b50ca32b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f6917b9f04ac7a996fbc9a95dbccfba') in 0.017994 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/UI/In Game/VFX/dice vfx/0029.png
+  artifactKey: Guid(17ce3665a4804454c8a6aa931452602e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/dice vfx/0029.png using Guid(17ce3665a4804454c8a6aa931452602e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fdb79009b0f41e57e58f1d33e34c3e5') in 0.018023 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/UI/In Game/VFX/dice vfx/0089.png
+  artifactKey: Guid(68afe6326836f454b8165c17fdc2ee16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/dice vfx/0089.png using Guid(68afe6326836f454b8165c17fdc2ee16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cc35985ceb6dbc8dd7200d6f3ed7d0c') in 0.016640 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/UI/In Game/VFX/dice vfx/0065.png
+  artifactKey: Guid(5d22986fc614ccc4c8dbbc1e8d60c308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/dice vfx/0065.png using Guid(5d22986fc614ccc4c8dbbc1e8d60c308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fac901baabac2632bc799b7e77678c9') in 0.021416 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/UI/In Game/VFX/dice vfx/0044.png
+  artifactKey: Guid(419edf259509d9b44bb2677b72dbff5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/dice vfx/0044.png using Guid(419edf259509d9b44bb2677b72dbff5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc815c0a1a7017c80b896660a9642ef4') in 0.018356 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/UI/In Game/VFX/dice vfx/0113.png
+  artifactKey: Guid(c735f72fb2435a8499398d81d5e8652e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/dice vfx/0113.png using Guid(c735f72fb2435a8499398d81d5e8652e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '193a9ecd6da2bdd91db99bc2c8418833') in 0.017258 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/UI/In Game/VFX/dice vfx/0035.png
+  artifactKey: Guid(ca61d51bcc2d4a9449fed4a59c6fff74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/dice vfx/0035.png using Guid(ca61d51bcc2d4a9449fed4a59c6fff74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd3610e5ae2a22b258adcc2b15075bf4') in 0.019312 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/UI/In Game/VFX/dice vfx/0098.png
+  artifactKey: Guid(1bd1c6b2936779b41af5742ca1cb3c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/dice vfx/0098.png using Guid(1bd1c6b2936779b41af5742ca1cb3c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa6c82dc51aaba48512383793adf146f') in 0.016095 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/UI/In Game/VFX/dice vfx/0122.png
+  artifactKey: Guid(d4a1b9888ef422d40b8212be4ecc1308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/dice vfx/0122.png using Guid(d4a1b9888ef422d40b8212be4ecc1308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29363ae31bc19da074a45b42a4c770c8') in 0.017871 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/UI/In Game/VFX/dice vfx/0104.png
+  artifactKey: Guid(2b0f7cce933f1354083cd1eb03d613e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/dice vfx/0104.png using Guid(2b0f7cce933f1354083cd1eb03d613e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd65794b11e95184b797f757acf40ca80') in 0.016741 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/UI/In Game/VFX/dice vfx/0071.png
+  artifactKey: Guid(7bf1cb7259458e3478ca1f2699081169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/VFX/dice vfx/0071.png using Guid(7bf1cb7259458e3478ca1f2699081169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f310682bb7663b01a68f2928ba88e75f') in 0.017594 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.381916 seconds.
+  path: Assets/UI/In Game/Dice/dice2.png
+  artifactKey: Guid(b419af80727ef1849addb86dd89c275b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/Dice/dice2.png using Guid(b419af80727ef1849addb86dd89c275b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3043f802841aa291b81756fac64a5ad9') in 0.019179 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/UI/In Game/Dice/dice3.png
+  artifactKey: Guid(f6e19c536e62e6641b1fe4f071db711f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/Dice/dice3.png using Guid(f6e19c536e62e6641b1fe4f071db711f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f30992f792c86117891ed6cd99269a8') in 0.018559 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UI/In Game/Dice/dice4.png
+  artifactKey: Guid(5e6809a42792ef74888069f5019d2c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/In Game/Dice/dice4.png using Guid(5e6809a42792ef74888069f5019d2c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51541e2f946178e1da5c9f06003024e1') in 0.015397 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.284040 seconds.
+  path: Assets/UI/2D/Game/Button R.png
+  artifactKey: Guid(5d25cd5cedcabcf40875c68deb89ef31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/2D/Game/Button R.png using Guid(5d25cd5cedcabcf40875c68deb89ef31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef8cda37967e21a3968eedf69de09c54') in 0.021652 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/UI/2D/Game/Frame 23463.png
+  artifactKey: Guid(f584879364ad71141b99ea3d836a960a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/2D/Game/Frame 23463.png using Guid(f584879364ad71141b99ea3d836a960a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d83c5b58e2b038ce4bbdd0ece1fb8f3') in 0.026510 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UI/2D/Game/Rectangle 106 (1).png
+  artifactKey: Guid(af59cc6ad8241544cbf999b62e2ff91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/2D/Game/Rectangle 106 (1).png using Guid(af59cc6ad8241544cbf999b62e2ff91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '892e136b8c6b37f73021f0f3bee49d30') in 0.013721 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/UI/2D/Game/Button3.png
+  artifactKey: Guid(c7a5b88a73256274fa7ff7e97c1ed9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/2D/Game/Button3.png using Guid(c7a5b88a73256274fa7ff7e97c1ed9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10dd0ca0ab9a3d79694e874923494859') in 0.014499 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/UI/2D/Game/Ellipse 42.png
+  artifactKey: Guid(09ee2b563db037541904bc32bef2d5cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/2D/Game/Ellipse 42.png using Guid(09ee2b563db037541904bc32bef2d5cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12c5128f5cf4bccc25bf87d0d919f62d') in 0.012632 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.592903 seconds.
+  path: Assets/UI/2D/menu/Frame 23420 (1).png
+  artifactKey: Guid(78a054bcd695a3b4f83525f88352dc01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/2D/menu/Frame 23420 (1).png using Guid(78a054bcd695a3b4f83525f88352dc01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c03138a4b716137d462bb594a4a7f9e4') in 0.023038 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/UI/2D/menu/Frame 31456.png
+  artifactKey: Guid(b5313b7adcc02084dbf49bdd3c5104c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/2D/menu/Frame 31456.png using Guid(b5313b7adcc02084dbf49bdd3c5104c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '231b7d150a1d8aae5e914f76e3ade44e') in 0.013058 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/UI/2D/menu/Rectangle 18457.png
+  artifactKey: Guid(cf510136f911f6142873446f27c2ae7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/2D/menu/Rectangle 18457.png using Guid(cf510136f911f6142873446f27c2ae7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0748e0454711293fc42c5346ba07a0a') in 0.014585 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/UI/2D/menu/Game.png
+  artifactKey: Guid(dbee2221ad87df34e99bfe3f4d7f187c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/2D/menu/Game.png using Guid(dbee2221ad87df34e99bfe3f4d7f187c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '360bcb68646f67a4265072c94e072120') in 0.024299 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/UI/2D/menu/Group 830.png
+  artifactKey: Guid(1ebf4dcb3ff87a348a5c810b35c3011c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/2D/menu/Group 830.png using Guid(1ebf4dcb3ff87a348a5c810b35c3011c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3b4cd89d59b4b18f06b0f6d9e4a24c2') in 0.011944 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/UI/2D/menu/Group 829.png
+  artifactKey: Guid(bca781ae8d2d1384f94fa086f39998f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/2D/menu/Group 829.png using Guid(bca781ae8d2d1384f94fa086f39998f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec38e8b581a3cbd8fbb2b74a99a966ae') in 0.011658 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.471 seconds
+Refreshing native plugins compatible for Editor in 4.40 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.913 seconds
+Domain Reload Profiling: 1384ms
+	BeginReloadAssembly (156ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (45ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (23ms)
+	LoadAllAssembliesAndSetupDomain (243ms)
+		LoadAssemblies (285ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (37ms)
+			TypeCache.Refresh (13ms)
+				TypeCache.ScanAssembly (2ms)
+			ScanForSourceGeneratedMonoScriptInfo (16ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (914ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (437ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (75ms)
+			ProcessInitializeOnLoadAttributes (262ms)
+			ProcessInitializeOnLoadMethodAttributes (76ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Refreshing native plugins compatible for Editor in 4.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5282 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 64 unused Assets / (2.3 MB). Loaded Objects now: 5796.
+Memory consumption went from 181.4 MB to 179.1 MB.
+Total: 3.080600 ms (FindLiveObjects: 0.337000 ms CreateObjectMapping: 0.262200 ms MarkObjects: 2.197200 ms  DeleteObjects: 0.283500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 90.393902 seconds.
+  path: Assets/Prefab/Column highLight.prefab
+  artifactKey: Guid(3f0867b9e83602b4d815b6c65a1692c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Column highLight.prefab using Guid(3f0867b9e83602b4d815b6c65a1692c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2d4860777e86c0ad3827bac6722eaf7') in 0.029935 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Prefab/Game Setup.prefab
+  artifactKey: Guid(b68024bf191c12a4d8d13d0521478ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game Setup.prefab using Guid(b68024bf191c12a4d8d13d0521478ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2cf8002b34cccc7f25f2ada95b17fe5') in 0.014195 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 58
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Prefab/Kick VFX.prefab
+  artifactKey: Guid(8826f11493249864aa75d4f61a9760f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Kick VFX.prefab using Guid(8826f11493249864aa75d4f61a9760f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ea8d18bc4d88bdee63fc45f5b825079') in 0.001930 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Prefab/Socket.prefab
+  artifactKey: Guid(0b11edaa9291eed459d9531337dca4be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Socket.prefab using Guid(0b11edaa9291eed459d9531337dca4be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0daa6a47bed965b563fcdf0bd37cc244') in 0.002136 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Prefab/Dice VFX 1.prefab
+  artifactKey: Guid(bb8f96d413ef2dc4097f22aa01bf4e23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Dice VFX 1.prefab using Guid(bb8f96d413ef2dc4097f22aa01bf4e23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28daeda129aefc513b45a0bbadfdc814') in 0.127228 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 99
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
+=======
 Mono path[0] = 'D:/Software/Unity/Unity 2022.1.24f1/Editor/Data/Managed'
 Mono path[1] = 'D:/Software/Unity/Unity 2022.1.24f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'D:/Software/Unity/Unity 2022.1.24f1/Editor/Data/MonoBleedingEdge/etc'
@@ -107,3 +786,4 @@ Domain Reload Profiling:
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
 Registered in 0.005733 seconds.
+>>>>>>> parent of 375d7ce (part 2 changes)
