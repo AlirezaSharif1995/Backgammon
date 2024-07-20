@@ -1,4 +1,7 @@
 Base path: 'D:/Software/Unity/Unity 2022.1.24f1/Editor/Data', plugins path 'D:/Software/Unity/Unity 2022.1.24f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
 
+<<<<<<< HEAD
+=======
 Cmd: shutdown
+>>>>>>> parent of 375d7ce (part 2 changes)
