@@ -1,0 +1,9 @@
+D:\z-other\Control-Game-main\Jvl-Backgammon\backgammon\Temp\Bin\Debug\Unity.RenderPipelines.Core.ShaderLibrary.dll
+D:\z-other\Control-Game-main\Jvl-Backgammon\backgammon\Temp\Bin\Debug\Unity.RenderPipelines.Core.ShaderLibrary.pdb
+D:\z-other\Control-Game-main\Jvl-Backgammon\backgammon\Temp\Bin\Debug\UnityEditor.UI.pdb
+D:\z-other\Control-Game-main\Jvl-Backgammon\backgammon\Temp\Bin\Debug\UnityEngine.UI.pdb
+D:\z-other\Control-Game-main\Jvl-Backgammon\backgammon\obj\Debug\Unity.RenderPipelines.Core.ShaderLibrary.csproj.AssemblyReference.cache
+D:\z-other\Control-Game-main\Jvl-Backgammon\backgammon\obj\Debug\Unity.RenderPipelines.Core.ShaderLibrary.csproj.CoreCompileInputs.cache
+D:\z-other\Control-Game-main\Jvl-Backgammon\backgammon\obj\Debug\Unity.Re.4D9FF3AC.Up2Date
+D:\z-other\Control-Game-main\Jvl-Backgammon\backgammon\obj\Debug\Unity.RenderPipelines.Core.ShaderLibrary.dll
+D:\z-other\Control-Game-main\Jvl-Backgammon\backgammon\obj\Debug\Unity.RenderPipelines.Core.ShaderLibrary.pdb

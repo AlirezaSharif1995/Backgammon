@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3982446582743661082
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3982446582743661084}
+  - component: {fileID: 3982446582743661085}
+  m_Layer: 0
+  m_Name: Socket
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3982446582743661084
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3982446582743661082}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 291.71124, y: 512.63745, z: 129.72903}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3982446582743661085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3982446582743661082}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dabab1400c1f4f489a4619bcf53c4c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serverUrl: https://lightsea.ir/V1/
+  Connected: 0
+  error: 
+  GameData:
+    FirstMove: 0
+    FirstRollDice:
+      currentPlayer: 
+      rolledDice: 
+      isBlocked: 0
+    live: 0
+    Player:
+      starterDice: 0
+    Opponent:
+      playerToken: 
+      Nickname: 
+      AvatarID: 0
+      Coin: 0
+      Jvl: 0
+      Level: 0
+      starterDice: 0
+    mainTime: 0
+    turnRestTime: 0
+    notReadyTime: 0
+    gameLive: 0
